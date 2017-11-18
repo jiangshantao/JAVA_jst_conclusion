@@ -7,9 +7,9 @@ public class Hello {
 
         int binVal1 = 0b11010111;
         int binVal2 = 0B11010001;
-        char zhong = '香';
+        char jiang = '香';
         char ch = '\u9999';
-        int zhongValue = zhong;
+        int zhongValue = jiang;
         String s = "沧海月明珠有泪,蓝田日暖玉生烟.";
         System.out.println(zhongValue);
         System.out.println(binVal1);
