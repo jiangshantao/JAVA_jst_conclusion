@@ -16,7 +16,6 @@ public class Hello {
         System.out.println(zhongValue);
         System.out.println(binVal1);
         System.out.println(binVal2);
-        git
         System.out.println(s);
 
     }
