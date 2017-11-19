@@ -11,10 +11,12 @@ public class Hello {
         char ch = '\u9999';
         int zhongValue = zhong;
         String s = "沧海月明珠有泪,蓝田日暖玉生烟.";
+        String test = "测试git stash & pop 命令";
+        System.out.println(test);
         System.out.println(zhongValue);
         System.out.println(binVal1);
         System.out.println(binVal2);
-        System.out.println(ch);
+        git
         System.out.println(s);
 
     }
