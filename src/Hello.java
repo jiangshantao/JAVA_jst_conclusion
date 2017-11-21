@@ -16,6 +16,8 @@ public class Hello {
         System.out.println(binVal2);
         System.out.println(ch);
         System.out.println(s);
+        System.out.println(5 << 2);
+        System.out.println(-5 << 2);
 
     }
 }
